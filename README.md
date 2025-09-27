@@ -32,7 +32,6 @@ docs/ # Diagrams, notes
 LICENSE # MIT License
 README.md # Project documentation
 
-
 ---
 
 ## ⚙️ Setup Instructions
@@ -52,27 +51,7 @@ README.md # Project documentation
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots inside the /screenshots folder and link them here)
-### Admin
-[Default Page] (Screenshots/Admin/01- default page.png)
-[Home Page] (Screenshots/Admin/02 - home page.png)
-
-
-
-
-
-
-
-
----
-
-## 📐 Architecture
-
-(Optional diagram — put in /docs folder)
-
-
-
+(Add screenshots inside the /screenshots folder)
 
 ---
 
